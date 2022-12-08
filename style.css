@@ -1,0 +1,11 @@
+.container {
+    border: black solid;
+    display: grid;
+    grid-template-columns: repeat(100, 1fr);
+    grid-template-row: repeat(100, 1fr);
+    width: 800px;
+    height: 800px;
+}
+/*.pixel {
+    border: red solid;
+}*/
