@@ -1,21 +1,21 @@
 .page {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 button {
-    margin: 20px;
-    margin-top: 0;
-    padding: 5px;
-    font-weight: bold;
-    font-size: 15px;
+  margin: 20px;
+  margin-top: 0;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 .container {
-    border: black solid;
-    display: grid;
-    grid-template-columns: repeat(16, 1fr);
-    width: 640px;
-    height: 640px;
+  border: black solid;
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  width: 640px;
+  height: 640px;
 }
